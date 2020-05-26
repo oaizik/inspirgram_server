@@ -1,0 +1,84 @@
+{
+    "paths":[
+        {
+            "method": "GET",
+            "path": "/users/"
+        },
+        {
+            "method": "PUT",
+            "path": "/users/"
+        },
+        {
+            "method": "DELETE",
+            "path": "/users/"
+        },
+        {
+            "method": "GET",
+            "path": "/orders/allClient"
+        },
+        {
+            "method": "POST",
+            "path": "/orders/"
+        },
+        {
+            "method": "PUT",
+            "path": "/orders/"
+        },
+        {
+            "method": "DELETE",
+            "path": "/orders/"
+        },
+        {
+            "method": "POST",
+            "path": "/sentences/"
+        },
+        {
+            "method": "PUT",
+            "path": "/sentences/"
+        },
+        {
+            "method": "DELETE",
+            "path": "/sentences/"
+        },
+        {
+            "method": "GET",
+            "path": "/users"
+        },
+        {
+            "method": "PUT",
+            "path": "/users"
+        },
+        {
+            "method": "DELETE",
+            "path": "/users"
+        },
+        {
+            "method": "GET",
+            "path": "/orders/allClient"
+        },
+        {
+            "method": "POST",
+            "path": "/orders"
+        },
+        {
+            "method": "PUT",
+            "path": "/orders"
+        },
+        {
+            "method": "DELETE",
+            "path": "/orders"
+        },
+        {
+            "method": "POST",
+            "path": "/sentences"
+        },
+        {
+            "method": "PUT",
+            "path": "/sentences"
+        },
+        {
+            "method": "DELETE",
+            "path": "/sentences"
+        }
+    ]
+}
